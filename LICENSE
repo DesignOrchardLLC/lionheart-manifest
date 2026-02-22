@@ -1,37 +1,58 @@
-DrMarchand’s ∞ OS™ — Lionheart℠ Manifest
-Version 1.1.0
+<div align="center">
 
-Copyright © 2026 Design Orchard LLC.
-All Rights Reserved.
+# DrMarchand’s ∞ OS™ — Lionheart℠ Manifest  
+**Version:** `v1.1.0`
 
-This repository and its contents are proprietary to Design Orchard LLC.
+**Copyright © 2026 Design Orchard LLC.**  
+**All Rights Reserved.**
 
-No part of this work may be copied, modified, distributed,
-transmitted, reproduced, sublicensed, reverse engineered,
-or used to create derivative works without prior written
-permission from Design Orchard LLC.
+</div>
 
-This includes, but is not limited to:
-• manifest.json
-• manifest.hash
-• signatures
-• structural release metadata
-• associated documentation
+---
+
+## Proprietary Notice
+
+This repository and its contents are proprietary to **Design Orchard LLC**.
+
+No part of this work may be **copied, modified, distributed, transmitted, reproduced, sublicensed, reverse engineered**, or used to create **derivative works** without prior written permission from **Design Orchard LLC**.
+
+### Covered Materials (Non-Exhaustive)
+
+- `manifest.json`
+- `manifest.hash`
+- `signatures/`
+- Structural release metadata
+- Associated documentation
+
+---
+
+## Limited Permission Granted
 
 Permission is granted only to:
-• View the repository
-• Reference descriptive material for citation purposes
-• Archive unmodified copies for documentation
 
-This work does not grant any license to:
-• Source code implementation
-• Execution frameworks
-• System modules
-• Branding or trademark usage
+- View the repository
+- Reference descriptive material for citation purposes
+- Archive **unmodified** copies for documentation
 
-All trademarks, service marks, and trade names
-including “DrMarchand’s ∞ OS™” and “Lionheart℠”
-are the property of Design Orchard LLC.
+---
 
-For licensing inquiries:
-https://drmarchandslaboratory.com
+## No License Granted
+
+This work does **not** grant any license to:
+
+- Source code implementation
+- Execution frameworks
+- System modules
+- Branding or trademark usage
+
+---
+
+## Marks
+
+All trademarks, service marks, and trade names — including **“DrMarchand’s ∞ OS™”** and **“Lionheart℠”** — are the property of **Design Orchard LLC**.
+
+---
+
+## Licensing Inquiries
+
+**drmarchandslaboratory.com**
