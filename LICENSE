@@ -1,33 +1,37 @@
-Creative Commons Attribution–NoDerivatives 4.0 International
-(CC BY-ND 4.0)
+DrMarchand’s ∞ OS™ — Lionheart℠ Manifest
+Version 1.1.0
 
-This work, titled:
+Copyright © 2026 Design Orchard LLC.
+All Rights Reserved.
 
-“∞ OS™ — Lionheart℠ Manifest (v1.0.2)”
+This repository and its contents are proprietary to Design Orchard LLC.
 
-is licensed under the Creative Commons Attribution–NoDerivatives 4.0
-International License.
+No part of this work may be copied, modified, distributed,
+transmitted, reproduced, sublicensed, reverse engineered,
+or used to create derivative works without prior written
+permission from Design Orchard LLC.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Use — cite, reference, analyze, and archive the manifest
+This includes, but is not limited to:
+• manifest.json
+• manifest.hash
+• signatures
+• structural release metadata
+• associated documentation
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to
-  the license, and indicate if changes were made.
-- NoDerivatives — You may NOT distribute modified versions of this work.
+Permission is granted only to:
+• View the repository
+• Reference descriptive material for citation purposes
+• Archive unmodified copies for documentation
 
-No additional restrictions:
-You may not apply legal terms or technological measures that legally
-restrict others from doing anything the license permits.
+This work does not grant any license to:
+• Source code implementation
+• Execution frameworks
+• System modules
+• Branding or trademark usage
 
-Attribution must include:
-Joseph Kyle Marchand  
-🌴 Design Orchard™  
-https://github.com/DesignOrchardLLC/lionheart-manifest
+All trademarks, service marks, and trade names
+including “DrMarchand’s ∞ OS™” and “Lionheart℠”
+are the property of Design Orchard LLC.
 
-This work is descriptive only.
-It is non-executable, non-advisory, and non-agentive.
-
-Full license text:
-https://creativecommons.org/licenses/by-nd/4.0/
+For licensing inquiries:
+https://drmarchandslaboratory.com
