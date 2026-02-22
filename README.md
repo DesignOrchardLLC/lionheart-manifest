@@ -1,31 +1,82 @@
-# lionheart-manifest
+# lionheart_manifest
 
-# ∞ OS™ — Lionheart℠ Manifest
+# DrMarchand’s ∞ OS™ — Lionheart℠ Manifest
 
-This repository contains the **canonical Lionheart℠ Manifest (v1.0.2)**.
+Version: 1.1.0  
+Status: Foundational Canon  
+Owner: Design Orchard LLC  
 
-## What this is
-- A **structural manifest**
+---
+
+## Overview
+
+This repository contains the canonical Lionheart℠ Manifest for  
+DrMarchand’s ∞ OS™.
+
+The manifest defines structural release metadata and identity alignment
+for the Lionheart edition of the proprietary operating framework.
+
+---
+
+## Nature of This Repository
+
+This repository is:
+
+- A structural manifest
+- Descriptive in nature
 - Non-executable
 - Non-advisory
 - Non-agentive
-- Descriptive only
 
-## What this is not
-- Not software
-- Not a policy engine
-- Not instructions
-- Not governance commands
+This repository does not contain:
 
-## Canon
-`LIONHEART.manifest.txt` is the **sole canonical artifact**.
-All other formats are derived representations only.
+- Executable source code
+- System modules
+- Policy engines
+- Governance instructions
+- Operational automation logic
 
-## Authority
-- Author: Joseph Kyle Marchand (🎮 DrMarchand)
-- Marking Authority: 🌴 Design Orchard™
-- Engine Reference: ⚙︎ Neuro-Forge Engine™
-- Protocol Reference: Wenz–Marchand Protocol℠ (WMP~786™)
+---
+
+## Canonical Artifact
+
+The canonical artifact is:
+
+`manifest.json`
+
+All other representations, including:
+
+- manifest.hash
+- derived text exports
+- documentation summaries
+
+are subordinate representations derived from the canonical manifest.
+
+---
+
+## Integrity Model
+
+- SHA-256 hashing is used for integrity validation.
+- Cryptographic signatures (if present) validate authenticity.
+- Canonical updates require version increment and hash regeneration.
+
+---
+
+## Ownership & Authority
+
+Author: Joseph Kyle Marchand  
+Product Owner: Design Orchard LLC  
+Product: DrMarchand’s ∞ OS™ — Lionheart℠  
+
+All intellectual property and associated trademarks are owned by
+Design Orchard LLC.
+
+---
 
 ## License
-See LICENSE.txt
+
+This repository is proprietary.
+
+See the LICENSE file for full terms.
+
+Unauthorized copying, modification, or derivative distribution is prohibited.
