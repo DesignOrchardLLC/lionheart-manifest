@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0.0",
+  "engine": {
+    "name": "infinite_os",
+    "edition": "lionheart",
+    "version": "0.1.0",
+    "codename": "LIONHEART",
+    "release_type": "foundational",
+    "stability": "alpha"
+  },
+  "ownership": {
+    "entity": "Design Orchard LLC",
+    "product": "DrMarchand’s ∞ OS™",
+    "copyright_holder": "Design Orchard LLC",
+    "jurisdiction": "Florida, United States",
+    "formed": "2025-11-14"
+  },
+  "release": {
+    "release_date": "2026-01-01",
+    "build_id": "lionheart-0.1.0",
+    "repository": "infinite_os_lionheart",
+    "primary_branch": "main"
+  },
+  "integrity": {
+    "manifest_hash_file": "manifest.hash",
+    "algorithm": "SHA-256",
+    "signed": false,
+    "signature_file": null
+  },
+  "distribution": {
+    "public_release": false,
+    "license": "Proprietary",
+    "export_controlled": false
+  },
+  "dependencies": [],
+  "modules": [],
+  "notes": "Initial structured release of DrMarchand’s ∞ OS™ Lionheart edition."
+}
